@@ -31,15 +31,6 @@ const (
 	NotFound = `<!DOCTYPE html>
 <html>
 <head>
-<title>Not Found</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-<head>
     <meta charset="utf-8" />
         <title>網站已遭查禁</title>
         <!-- Fonts -->
